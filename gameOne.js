@@ -47,7 +47,7 @@ function checkVinto() {
         "Good job, you won! And you used " +
           conta +
           " trips." + "\n" +
-          "Let's meet at Bier Garten,Near Graphite on 31st July, 1PM ",
+          "Let's meet at BierGarten,Near Graphite on 31st July, 1PM ",
         10
       );
       $("#button").slideUp("slow");

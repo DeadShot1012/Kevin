@@ -46,8 +46,8 @@ function checkVinto() {
       errore(
         "Good job, you won! And you used " +
           conta +
-          " trips." +
-          "Let's meet at BurgerMan,IndiraNagar on 6th August, 12PM ",
+          " trips." + "\n" +
+          "Let's meet at Bier Garten,Near Graphite on 31st July, 1PM ",
         10
       );
       $("#button").slideUp("slow");
@@ -57,7 +57,7 @@ function checkVinto() {
         "Good job, you won! And you used " +
           conta +
           " trips." +
-          "Try doing with 11 steps",
+          "Try doing with 11 Trips",
         10
       );
       $("#button").slideUp("fast");
